@@ -47,9 +47,7 @@ public class Employee {
 	@Column(name="emp_mobile", nullable=false)
 	private String mobile;
 
+}
 
-    public Employee() {
 
-        super ();
-    }}
 
